@@ -1,8 +1,6 @@
 # Hi, I'm Marwa Hatamleh! 👋 
 I have studied Software Engineering at JUST , i am taking a course and improve my knowledge and skills to be as  Full Stack engineer. Now I am taking a course in Full Stack to get the info on the path to be ready to take a step in the market
 
-
-Email: hatamleh.marwah@gmail.com
     
 - 👩‍💻 I'm currently working on some projects to improve my skills
 
