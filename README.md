@@ -4,7 +4,7 @@ I have studied Software Engineering at JUST , i am taking a course and improve m
     
 - 👩‍💻 I'm currently working on some projects to T-shaped my skills and knowledge in this path
 
-- 🧠 I'm currently learning React.js with PostgreSQL
+- 🧠 I'm currently learning Next.js with PostgreSQL
 
 - 💬 I'm looking to collaborate on  a project   
 
