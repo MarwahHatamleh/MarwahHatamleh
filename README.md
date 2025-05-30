@@ -10,7 +10,7 @@ I have studied Software Engineering at JUST , i am taking a course and improve m
 
 - 📫 How to reach me: hatamleh.marwah@gmail.comI
 
--- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgresSQL , MongoDB
+- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgresSQL , MongoDB
 
 - ⚡️ Fun fact : I love coding and facing a lot of problems in it 
 <a href="https://www.java.com" target="blank">
