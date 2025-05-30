@@ -1,18 +1,18 @@
 # Hi, I'm Marwa Hatamleh! 👋 
-I have studied Software Engineering at JUST , i am taking a course and improve my knowledge and skills to be as  Full Stack engineer. Now I am taking a course in Full Stack to get the info on the path to be ready to take a step in the market
+I have studied Software Engineering at JUST, i am taking a course and improve my knowledge and skills to be a  Full Stack engineer. Now I am taking a course in Full Stack to get the info on the path to be ready to take a step in the market
 
     
 - 👩‍💻 I'm currently working on some projects to T-shaped my skills and knowledge in this path
 
-- 🧠 I'm currently learning Next.js with PostgreSQL
+- 🧠 I'm currently learning Next.js and TypeScript with PostgreSQL
 
 - 💬 I'm looking to collaborate on  a project   
 
 - 📫 How to reach me: hatamleh.marwah@gmail.comI
 
-- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgresSQL , MongoDB
+- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgreSQL, MongoDB , TypeScript and Next.js
 
-- ⚡️ Fun fact : I love coding and facing a lot of problems in it 
+- ⚡️ Fun fact: I love coding and facing a lot of problems in it 
 <a href="https://www.java.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
 </a>
