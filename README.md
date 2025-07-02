@@ -4,13 +4,13 @@ I have studied Software Engineering at JUST, i am taking a course and improve my
     
 - 👩‍💻 I'm currently working on some projects to T-shaped my skills and knowledge in this path
 
-- 🧠 I'm currently learning Next.js and TypeScript with PostgreSQL
+- 🧠 I'm currently working to build a project using  Next.js and TypeScript with PostgreSQL
 
 - 💬 I'm looking to collaborate on  a project   
 
 - 📫 How to reach me: hatamleh.marwah@gmail.comI
 
-- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgreSQL, MongoDB , TypeScript and Next.js
+- 📄 Know about my experiences : JS , HTML5 , CSS, React.js , Node.js , PostgreSQL, MongoDB , TypeScript , Next.js , TS , Hooks , Express.js
 
 - ⚡️ Fun fact: I love coding and facing a lot of problems in it 
 <a href="https://www.java.com" target="blank">
